@@ -96,7 +96,6 @@ Screenshots or video demonstrations showing correct classification (touch vs no-
 ## Authors
 
 - Prajwal Devaraj
-- (Add additional contributors here if applicable)
 
 ## License
 
