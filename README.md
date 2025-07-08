@@ -1,4 +1,4 @@
-# Don't Touch Your Face – Deep Learning Detection System
+# Don't Touch Your Face
 
 This project is designed to detect whether a person is touching their face using deep learning and computer vision. The goal is to encourage better hygiene by identifying and alerting users when face-touching behavior is detected. This is especially useful in public health scenarios such as during the COVID-19 pandemic.
 
