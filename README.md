@@ -82,10 +82,6 @@ Ensure images are preprocessed to a consistent size and format for effective mod
 4. Perform predictions on live webcam data.
 5. Display real-time feedback based on prediction.
 
-## Sample Output
-
-Screenshots or video demonstrations showing correct classification (touch vs no-touch) can be added here for reference.
-
 ## Future Improvements
 
 - Improve accuracy with a larger dataset.
